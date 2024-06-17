@@ -1,0 +1,4 @@
+repository local (trong máy của user
+)
+repository remote (trên github)
+tạo repository local: git init (mỗi dự án sẽ làm 1 lần)
